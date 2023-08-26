@@ -10,23 +10,19 @@
     padding: 0;
     font-family: 'Quicksand', sans-serif;
 }
-.header1{
-    background-color: black;
-    height: 200px;
-}
-.header3{
-    background-color: black;
-    height: 200px;
-}
 .main{
-    background-color: rgb(21, 21, 21);
-    height: 900px;
+    min-height: 100vh;
+    background-image: linear-gradient(rgba(5, 7, 12, 0.5), rgba(5, 7, 12, 0.5)), url(../img/932701.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
 }
 h1{
     font-family: "letra quick";
     font-size: 50px;
     text-align: center;
-    color: white;
+    color: whitesmoke;
     font-weight: bolder;
     height: 50px;
 }
@@ -37,28 +33,6 @@ h2{
     color: white;
     font-weight: bolder;
     height: 50px;
-}
-
-.nav ul{
-    display: flex;
-    list-style-type: none;
-    align-content: space-around;
-    justify-content: space-around;
-    flex-wrap: wrap;
-    height: 50px;
-    flex-direction: row;
-    background-color: rgb(46, 46, 246);
-    align-items: center;
-}
-
-.nav ul li{
-    background-color: rgb(46, 46, 246);
-}
-
-.nav ul li a{
-    color: white;
-    text-decoration: none;
-    font-weight: bolder;
 }
 .papu{
     display: flex;
@@ -72,8 +46,12 @@ h2{
     margin-bottom: 0%;
 }
 .main2{
-    background-color: rgb(21, 21, 21);
-    height: 1200px;
+    min-height: 100vh;
+    background-image: linear-gradient(rgba(5, 7, 12, 0.5), rgba(5, 7, 12, 0.5)), url(../img/932701.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
 }
 .foto1{
     margin-top: 10px;
@@ -91,7 +69,7 @@ h2{
     flex-wrap: wrap;
 }
 .foto3{
-    margin-top: 10px;
+    margin-top: -379px;
     margin-left: 350px;
     margin-right: 100px;
     width: 600px;
@@ -100,8 +78,12 @@ h2{
     flex-wrap: wrap;
 }
 .main1{
-    background-color: rgb(21, 21, 21);
-    height: 3800px;
+    min-height: 100vh;
+    background-image: linear-gradient(rgba(5, 7, 12, 0.5), rgba(5, 7, 12, 0.5)), url(../img/932701.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
 }
 .contenedor{
     display: flex;
@@ -260,8 +242,12 @@ h2{
     margin-right: 0px;
 }
 .main3{
-    background-color: rgb(21, 21, 21);
-    height: 2400px;
+    min-height: 100vh;
+    background-image: linear-gradient(rgba(5, 7, 12, 0.5), rgba(5, 7, 12, 0.5)), url(../img/932701.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
 }
 .main3 section .premios{
     font-family:"letra quick";
@@ -423,8 +409,12 @@ h2{
     margin-left: 200px;
 }
 .main4{
-        background-color: rgb(21, 21, 21);
-        height: 900px;
+    min-height: 100vh;
+    background-image: linear-gradient(rgba(5, 7, 12, 0.5), rgba(5, 7, 12, 0.5)), url(../img/932701.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
 }
 .nombrecompleto{
     border: 5px solid black;
@@ -445,7 +435,7 @@ h2{
     color: white;
     font-weight: bold;
     text-align: center;
-    margin-top: 200px;
+    margin-top: 0px;
     margin-left: 150px;
 }
 .emailtext{
@@ -454,7 +444,7 @@ h2{
     color: white;
     font-weight: bold;
     text-align: center;
-    margin-top: 200px;
+    margin-top: 0px;
 }
 .mensaje{
     border: 5px solid black;
@@ -470,6 +460,7 @@ h2{
 }
 .footer{
     background-color: rgb(46, 46, 246);
+    height: 70px;
 }
 .textof{
     color: white;
@@ -478,4 +469,12 @@ h2{
 .contactanos{
     color: white;
     margin-left: 870px;
+}
+.navbar-collapse {
+    font-family:"letra quick";
+    font-size: 19px;
+    margin-right: 100px;
+    flex-basis: 100%;
+    flex-grow: 0;
+    align-items: center;
 }
