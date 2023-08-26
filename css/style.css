@@ -1,0 +1,481 @@
+@font-face {
+    font-family:"letra quick" ;
+    src: url('../recursos/fonts/Quicksand_Book.otf');
+}
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600;700&display=swap');
+
+/*Reseteo*/
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Quicksand', sans-serif;
+}
+.header1{
+    background-color: black;
+    height: 200px;
+}
+.header3{
+    background-color: black;
+    height: 200px;
+}
+.main{
+    background-color: rgb(21, 21, 21);
+    height: 900px;
+}
+h1{
+    font-family: "letra quick";
+    font-size: 50px;
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+    height: 50px;
+}
+h2{
+    font-family: "letra quick";
+    font-size: 50px;
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+    height: 50px;
+}
+
+.nav ul{
+    display: flex;
+    list-style-type: none;
+    align-content: space-around;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    height: 50px;
+    flex-direction: row;
+    background-color: rgb(46, 46, 246);
+    align-items: center;
+}
+
+.nav ul li{
+    background-color: rgb(46, 46, 246);
+}
+
+.nav ul li a{
+    color: white;
+    text-decoration: none;
+    font-weight: bolder;
+}
+.papu{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.main section .h12{
+    font-weight: bolder;
+}
+.main section img{
+    margin-bottom: 0%;
+}
+.main2{
+    background-color: rgb(21, 21, 21);
+    height: 1200px;
+}
+.foto1{
+    margin-top: 10px;
+    margin-left: 350px;
+    margin-right: 100px;
+    width: 600px;
+    height: 400px;
+    margin-bottom: 110px;
+    flex-wrap: wrap;
+}
+.foto2{ 
+    width: 600px;
+    height: 400px;
+    margin-bottom: 110px;
+    flex-wrap: wrap;
+}
+.foto3{
+    margin-top: 10px;
+    margin-left: 350px;
+    margin-right: 100px;
+    width: 600px;
+    height: 400px;
+    margin-bottom: 110px;
+    flex-wrap: wrap;
+}
+.main1{
+    background-color: rgb(21, 21, 21);
+    height: 3800px;
+}
+.contenedor{
+    display: flex;
+}
+.arabias{
+    margin-top: 10px;
+    margin-left: 150px;
+    margin-right: 180px;
+    width: 800px;
+    height: 400px;
+    margin-bottom: 110px;
+    flex-wrap: wrap;
+    border-radius: 10px;
+}
+.main1 div .arabia{
+    font-family:"letra quick";
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 200px;
+}
+.contenedor2{
+    display: flex;
+}
+.polonias{
+    margin-top: 10px;
+    margin-left: 250px;
+    margin-right: 120px;
+    width: 1000px;
+    height: 400px;
+    margin-bottom: 110px;
+    flex-wrap: wrap;
+    border-radius: 10px;
+}
+.main1 div .polonia{
+    font-family:"letra quick";
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 200px;
+    margin-left: 200px;
+}
+.contenedor3{
+    display: flex;
+}
+.Mexicas{
+    margin-top: 10px;
+    margin-left: 150px;
+    margin-right: 150px;
+    width: 800px;
+    height: 400px;
+    margin-bottom: 80px;
+    flex-wrap: wrap;
+    border-radius: 10px;
+}
+.main1 div .Mexico{
+    font-family:"letra quick";
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 200px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.contenedor4{
+    display: flex;
+}
+.australias{
+    margin-top: 10px;
+    margin-left: 250px;
+    margin-right: 120px;
+    width: 1000px;
+    height: 400px;
+    margin-bottom: 110px;
+    flex-wrap: wrap;
+    border-radius: 10px;
+}
+.main1 div .australia{
+    font-family:"letra quick";
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 200px;
+    margin-left: 200px;
+}
+.contenedor5{
+    display: flex;
+}
+.holandas{
+    margin-top: 10px;
+    margin-left: 170px;
+    margin-right: 90px;
+    width: 1200px;
+    height: 400px;
+    margin-bottom: 110px;
+    flex-wrap: wrap;
+    border-radius: 10px;
+}
+.main1 div .holanda{
+    font-family:"letra quick";
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 200px;
+    margin-left: 150px;
+    margin-right: 100px;
+}
+.contenedor6{
+    display: flex;
+}
+.croacias{
+    margin-top: 10px;
+    margin-left: 250px;
+    margin-right: 120px;
+    width: 1000px;
+    height: 400px;
+    margin-bottom: 110px;
+    flex-wrap: wrap;
+    border-radius: 10px;
+}
+.main1 div .croacia{
+    font-family:"letra quick";
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 200px;
+    margin-left: 200px;
+}
+.contenedor7{
+    display: flex;
+}
+.francias{
+    margin-top: 10px;
+    margin-left: 150px;
+    margin-right: 150px;
+    width: 800px;
+    height: 400px;
+    margin-bottom: 80px;
+    flex-wrap: wrap;
+    border-radius: 10px;
+}
+.main1 div .francia{
+    font-family:"letra quick";
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 200px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.main3{
+    background-color: rgb(21, 21, 21);
+    height: 2400px;
+}
+.main3 section .premios{
+    font-family:"letra quick";
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 200px;
+    margin-left: 200px;
+}
+.dibupremio{
+    width: 600px;
+    height: 400px;
+    margin-bottom: 110px;
+    flex-wrap: wrap;
+}
+.premiodibu{
+    font-family:"letra quick";
+    font-size: 22px;
+    color: white;
+    font-weight: bold;
+    text-align: left;
+    margin-top: -80px;
+    margin-left: 270px;
+}
+.enzopremio{
+    border: 10px solid white;
+    width: 600px;
+    height: 400px;
+    margin-bottom: 110px;
+    flex-wrap: wrap;
+}
+.fotodibu{
+    border: 10px solid white;
+    margin-top: 10px;
+    margin-left: 280px;
+    margin-right: 100px;
+    width: 600px;
+    height: 400px;
+    margin-bottom: 110px;
+    flex-wrap: wrap;
+}
+.premioenzo{
+    font-family:"letra quick";
+    font-size: 22px;
+    color: white;
+    font-weight: bold;
+    text-align: left;
+    margin-top: -25px;
+    margin-left: 970px;
+}
+.premiomessi{
+    border: 10px solid white;
+    margin-top: 10px;
+    margin-left: 650px;
+    margin-right: 100px;
+    width: 600px;
+    height: 400px;
+    margin-bottom: 110px;
+    flex-wrap: wrap;
+}
+.messipremio{
+    font-family:"letra quick";
+    font-size: 22px;
+    color: white;
+    font-weight: bold;
+    text-align: left;
+    margin-top: -80px;
+    margin-left: 660px;
+}
+.the-best{
+    display: flex;
+}
+.messifoto{
+    margin-top: 10px;
+    margin-left: 150px;
+    margin-right: 180px;
+    width: 800px;
+    height: 400px;
+    text-align: center;
+    margin-bottom: 110px;
+    flex-wrap: wrap;
+    border-radius: 10px;
+}
+.main3 div .messipremio{
+    font-family:"letra quick";
+    font-size: 30px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 200px;
+    margin-left: -20px;
+}
+.the-best2{
+    display: flex;
+}
+.dibufoto{
+    margin-top: 10px;
+    margin-left: 250px;
+    margin-right: 120px;
+    width: 1000px;
+    height: 400px;
+    margin-bottom: 110px;
+    flex-wrap: wrap;
+    border-radius: 10px;
+}
+.main3 div .dibupremio{
+    font-family:"letra quick";
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 200px;
+    margin-left: 200px;
+}
+.the-best3{
+    display: flex;
+}
+.scalonifoto{
+    margin-top: -80px;
+    margin-left: 150px;
+    margin-right: 150px;
+    width: 800px;
+    height: 400px;
+    margin-bottom: 80px;
+    flex-wrap: wrap;
+    border-radius: 10px;
+}
+.main3 div .scalonipremio{
+    font-family:"letra quick";
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 80px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.the-best4{
+    display: flex;
+}
+.inchada{
+    margin-top: 10px;
+    margin-left: 250px;
+    margin-right: 120px;
+    width: 1000px;
+    height: 400px;
+    margin-bottom: 110px;
+    flex-wrap: wrap;
+    border-radius: 10px;
+}
+.main3 div .inchadapremio{
+    font-family:"letra quick";
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 200px;
+    margin-left: 200px;
+}
+.main4{
+        background-color: rgb(21, 21, 21);
+        height: 900px;
+}
+.nombrecompleto{
+    border: 5px solid black;
+    margin-left: 100px;
+    margin: 10px;
+    height: 30px;
+    width: 600px;
+}
+.mail{
+    border: 5px solid black;
+    margin: 10px;
+    height: 30px;
+    width: 600px;
+}
+.nombretext{
+    font-family:"letra quick";
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 200px;
+    margin-left: 150px;
+}
+.emailtext{
+    font-family:"letra quick";
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 200px;
+}
+.mensaje{
+    border: 5px solid black;
+    margin-left: 540px;
+    height: 400px;
+    width: 800px;
+}
+.enviarmensaje{
+    border: 5px solid black;
+    margin-left: 640px;
+    height: 30px;
+    width: 600px;
+}
+.footer{
+    background-color: rgb(46, 46, 246);
+}
+.textof{
+    color: white;
+    margin-left: 800px;
+}
+.contactanos{
+    color: white;
+    margin-left: 870px;
+}
