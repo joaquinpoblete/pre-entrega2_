@@ -19,6 +19,7 @@
     background-size: cover;
 }
 h1{
+    margin-top: 50px;
     font-family: "letra quick";
     font-size: 50px;
     text-align: center;
@@ -89,131 +90,126 @@ h2{
     display: flex;
 }
 .arabias{
-    margin-top: 10px;
-    margin-left: 150px;
-    margin-right: 180px;
-    width: 800px;
+    box-shadow: 7px 6px 0px 2px black;
+    margin: 10px 180px 110px 90px;
+    width: 1708px;
     height: 400px;
-    margin-bottom: 110px;
     flex-wrap: wrap;
-    border-radius: 10px;
 }
 .main1 div .arabia{
     font-family:"letra quick";
+    box-sizing: border-box;
     font-size: 25px;
     color: white;
-    font-weight: bold;
+    font-weight: bolder;
     text-align: center;
     margin-top: 200px;
+    margin-right: 100px;
 }
 .contenedor2{
     display: flex;
 }
 .polonias{
-    margin-top: 10px;
-    margin-left: 250px;
-    margin-right: 120px;
+    box-shadow: -4px 3px 2px 2px black;
+    margin: 10px 120px 110px 250px;
     width: 1000px;
     height: 400px;
-    margin-bottom: 110px;
     flex-wrap: wrap;
-    border-radius: 10px;
 }
 .main1 div .polonia{
-    font-family:"letra quick";
+    font-family: "letra quick";
     font-size: 25px;
     color: white;
-    font-weight: bold;
+    font-weight: bolder;
     text-align: center;
-    margin-top: 200px;
-    margin-left: 200px;
+    margin-top: 125px;
+    margin-left: 127px;
 }
 .contenedor3{
     display: flex;
 }
 .Mexicas{
+    box-shadow: 7px 6px 0px 2px black;
     margin-top: 10px;
-    margin-left: 150px;
-    margin-right: 150px;
-    width: 800px;
+    margin-left: 91px;
+    margin-right: 96px;
+    width: 1563px;
     height: 400px;
     margin-bottom: 80px;
-    flex-wrap: wrap;
-    border-radius: 10px;
-}
+    flex-wrap: wrap;}
 .main1 div .Mexico{
     font-family:"letra quick";
     font-size: 25px;
     color: white;
-    font-weight: bold;
+    font-weight: bolder;
     text-align: center;
     margin-top: 200px;
     margin-left: 0px;
-    margin-right: 0px;
+    margin-right: 44px;
 }
 .contenedor4{
     display: flex;
 }
 .australias{
+    box-shadow: -4px 3px 2px 2px black;
     margin-top: 10px;
     margin-left: 250px;
     margin-right: 120px;
-    width: 1000px;
+    width: 2900px;
     height: 400px;
     margin-bottom: 110px;
     flex-wrap: wrap;
-    border-radius: 10px;
 }
 .main1 div .australia{
-    font-family:"letra quick";
+    font-family: "letra quick";
     font-size: 25px;
     color: white;
-    font-weight: bold;
+    font-weight: bolder;
     text-align: center;
-    margin-top: 200px;
-    margin-left: 200px;
+    margin-top: 159px;
+    margin-left: 129px;
 }
 .contenedor5{
     display: flex;
 }
 .holandas{
+    box-shadow: 7px 6px 0px 2px black;
     margin-top: 10px;
-    margin-left: 170px;
+    margin-left: 79px;
     margin-right: 90px;
-    width: 1200px;
+    width: 3081px;
     height: 400px;
     margin-bottom: 110px;
     flex-wrap: wrap;
-    border-radius: 10px;
 }
 .main1 div .holanda{
-    font-family:"letra quick";
+    font-family: "letra quick";
     font-size: 25px;
     color: white;
-    font-weight: bold;
+    font-weight: bolder;
     text-align: center;
-    margin-top: 200px;
+    margin-top: 157px;
     margin-left: 150px;
-    margin-right: 100px;
+    margin-right: 169px;
 }
 .contenedor6{
     display: flex;
 }
 .croacias{
+    box-shadow: -4px 3px 2px 2px black;
     margin-top: 10px;
     margin-left: 250px;
     margin-right: 120px;
-    width: 1000px;
+    width: 2000px;
     height: 400px;
     margin-bottom: 110px;
     flex-wrap: wrap;
-    border-radius: 10px;
 }
 .main1 div .croacia{
     font-family:"letra quick";
     font-size: 25px;
     color: white;
-    font-weight: bold;
+    font-weight: bolder;
     text-align: center;
     margin-top: 200px;
     margin-left: 200px;
@@ -222,24 +218,24 @@ h2{
     display: flex;
 }
 .francias{
+    box-shadow: 7px 6px 0px 2px black;
     margin-top: 10px;
     margin-left: 150px;
     margin-right: 150px;
-    width: 800px;
+    width: 1900px;
     height: 400px;
     margin-bottom: 80px;
     flex-wrap: wrap;
-    border-radius: 10px;
 }
 .main1 div .francia{
     font-family:"letra quick";
     font-size: 25px;
     color: white;
-    font-weight: bold;
+    font-weight: bolder;
     text-align: center;
     margin-top: 200px;
     margin-left: 0px;
-    margin-right: 0px;
+    margin-right: 47px;
 }
 .main3{
     min-height: 100vh;
@@ -253,7 +249,7 @@ h2{
     font-family:"letra quick";
     font-size: 25px;
     color: white;
-    font-weight: bold;
+    font-weight: bolder;
     text-align: center;
     margin-top: 200px;
     margin-left: 200px;
@@ -268,7 +264,7 @@ h2{
     font-family:"letra quick";
     font-size: 22px;
     color: white;
-    font-weight: bold;
+    font-weight: bolder;
     text-align: left;
     margin-top: -80px;
     margin-left: 270px;
@@ -478,3 +474,81 @@ h2{
     flex-grow: 0;
     align-items: center;
 }
+.nav-link{
+
+}
+.nav-link:hover{
+    border-bottom: 2px solid yellow;
+}
+.w-100 {
+    margin: auto;
+    height: 80%;
+    width: 80%!important;
+    align-content: center;
+}
+#1campeon{
+    color: black;
+}
+.conteiner{
+    display: flex;
+}
+.Scalonif{
+    box-shadow: 9px 7px 0px 2px white;
+    margin: 0px 0px 0px 100px;
+    margin-left: 16vh;
+    height: 418px;
+    width: 2200px;
+}
+.scalonfra{
+    font-family:"letra quick" ;
+    color: white;
+    font-weight: bolder;
+    margin: 100px 0px 0px 100px;
+    text-align: center;
+    margin-right: 16vh;
+    height: 418px;
+    width: 2200px;
+    min-width: 250px;
+}
+.mb-3 {
+    box-shadow: 1px 1px 10px 5px rgb(0, 0, 0);
+    display: flex;
+    width: 50.599999999999994vh;
+    margin-bottom: 4rem !important;
+    margin: 0px;
+}
+.card-title {
+    font-family: "letra quick";
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: var(--bs-card-title-spacer-y);
+    color: var(--bs-card-title-color);
+}
+.card-text{
+    font-family: "letra quick";
+    color: black;
+    font-weight: bolder;
+    text-align: center;
+}
+.card-img, .card-img-bottom, .card-img-top {
+    display: flex;
+    width: 100%;
+}
+.videomundi{
+    box-shadow: 0px 0px 0px 0px white;
+    display: flex;
+    margin-top: -2px;
+    margin-left: 87.5px;
+    margin-right: 87.5px;
+}
+.card-mb-3{
+    display: flex;
+}
+.conteiner2{
+    display: flex;
+}
+.carousel-inner img {
+    width: 100%; 
+    height: auto;
+    aspect-ratio: 4 / 3;
+  }
