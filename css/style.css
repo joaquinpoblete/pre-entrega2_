@@ -11,7 +11,7 @@
     font-family: 'Quicksand', sans-serif;
 }
 .main{
-    min-height: 100vh;
+    min-height: 100vw;
     background-image: linear-gradient(rgba(5, 7, 12, 0.5), rgba(5, 7, 12, 0.5)), url(../img/932701.jpg);
     background-repeat: no-repeat;
     background-position: center center;
@@ -101,7 +101,7 @@ h2{
     box-sizing: border-box;
     font-size: 25px;
     color: white;
-    font-weight: bolder;
+    font-weight: bold;
     text-align: center;
     margin-top: 200px;
     margin-right: 100px;
@@ -111,16 +111,19 @@ h2{
 }
 .polonias{
     box-shadow: -4px 3px 2px 2px black;
-    margin: 10px 120px 110px 250px;
-    width: 1000px;
+    margin-top: 10px;
+    margin-left: 250px;
+    margin-right: 120px;
+    width: 2900px;
     height: 400px;
+    margin-bottom: 110px;
     flex-wrap: wrap;
 }
 .main1 div .polonia{
     font-family: "letra quick";
     font-size: 25px;
     color: white;
-    font-weight: bolder;
+    font-weight: bold;
     text-align: center;
     margin-top: 125px;
     margin-left: 127px;
@@ -141,7 +144,7 @@ h2{
     font-family:"letra quick";
     font-size: 25px;
     color: white;
-    font-weight: bolder;
+    font-weight: bold;
     text-align: center;
     margin-top: 200px;
     margin-left: 0px;
@@ -164,7 +167,7 @@ h2{
     font-family: "letra quick";
     font-size: 25px;
     color: white;
-    font-weight: bolder;
+    font-weight: bold;
     text-align: center;
     margin-top: 159px;
     margin-left: 129px;
@@ -186,7 +189,7 @@ h2{
     font-family: "letra quick";
     font-size: 25px;
     color: white;
-    font-weight: bolder;
+    font-weight: bold;
     text-align: center;
     margin-top: 157px;
     margin-left: 150px;
@@ -209,7 +212,7 @@ h2{
     font-family:"letra quick";
     font-size: 25px;
     color: white;
-    font-weight: bolder;
+    font-weight: bold;
     text-align: center;
     margin-top: 200px;
     margin-left: 200px;
@@ -231,7 +234,7 @@ h2{
     font-family:"letra quick";
     font-size: 25px;
     color: white;
-    font-weight: bolder;
+    font-weight: bold;
     text-align: center;
     margin-top: 200px;
     margin-left: 0px;
@@ -249,13 +252,12 @@ h2{
     font-family:"letra quick";
     font-size: 25px;
     color: white;
-    font-weight: bolder;
+    font-weight: bold;
     text-align: center;
     margin-top: 200px;
     margin-left: 200px;
 }
 .dibupremio{
-    width: 600px;
     height: 400px;
     margin-bottom: 110px;
     flex-wrap: wrap;
@@ -264,7 +266,7 @@ h2{
     font-family:"letra quick";
     font-size: 22px;
     color: white;
-    font-weight: bolder;
+    font-weight: bold;
     text-align: left;
     margin-top: -80px;
     margin-left: 270px;
@@ -275,6 +277,7 @@ h2{
     height: 400px;
     margin-bottom: 110px;
     flex-wrap: wrap;
+    margin-top: 10px;
 }
 .fotodibu{
     border: 10px solid white;
@@ -292,8 +295,8 @@ h2{
     color: white;
     font-weight: bold;
     text-align: left;
-    margin-top: -25px;
-    margin-left: 970px;
+    margin-top: -77px;
+    margin-left: -30px;
 }
 .premiomessi{
     border: 10px solid white;
@@ -358,6 +361,21 @@ h2{
     text-align: center;
     margin-top: 200px;
     margin-left: 200px;
+}
+.contenedormessi{
+    display: flex;
+    flex-direction: column;
+}
+.contenedorenzo{
+    display: flex;
+    flex-direction: column;
+}
+.dibu{
+    display: flex;
+    flex-direction: column;
+}
+.contenedordibuyenzo{
+    display: flex;
 }
 .the-best3{
     display: flex;
@@ -480,9 +498,6 @@ h2{
     flex-basis: 100%;
     flex-grow: 0;
     align-items: center;
-}
-.nav-link{
-
 }
 .nav-link:hover{
     border-bottom: 2px solid yellow;
@@ -630,6 +645,13 @@ h2{
         margin: auto;
         margin-top: 58px;
     }
+    .contenedordibuyenzo{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
 }
 @media (max-width: 1300px){
     .contenedor{
@@ -760,5 +782,186 @@ h2{
         margin-top: -62px;
         margin-left: 0px;
         margin-right: 0px;
+    }
+    .contenedordibuyenzo{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+    .fotodibu{
+            width: 80%;
+            height: 90%;
+            margin: auto;
+            margin-bottom: 114px;
+    }
+    .premiodibu{
+        font-family: "letra quick";
+        font-size: 22px;
+        color: white;
+        font-weight: bold;
+        text-align: center;
+        margin: auto;
+        margin-top: -90px;
+    }
+    .enzopremio{
+            width: 80%;
+            height: 90%;
+            margin: auto;
+            margin-top: 29px;
+    }
+    .premioenzo{
+        font-family: "letra quick";
+        font-size: 22px;
+        color: white;
+        font-weight: bold;
+        text-align: center;
+        margin: auto;
+        margin-top: 20px;
+    }
+    .contenedormessi{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        flex-wrap: nowrap;
+    }
+    .premiomessi{
+        width: 80%;
+        height: 90%;
+        margin: auto;
+    }
+    .the-best{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+    .messifoto{
+        width: 80%;
+        height: 90%;
+        margin: auto;
+    }
+    .main3 div .messipremio {
+    font-family: "letra quick";
+    font-size: 30px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    margin: auto;
+    margin-top: 24px;
+    margin-left: 2px;
+    }
+    .the-best2{
+        display: flex;
+        flex-direction: column-reverse;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+    .dibufoto{
+        width: 80%;
+        height: 90%;
+        margin: auto;
+    }
+    .main3 div .dibupremio {
+        font-family: "letra quick";
+        font-size: 22px;
+        color: white;
+        font-weight: bold;
+        text-align: center;
+        margin: auto;
+        margin-bottom: -322px;
+        margin-top: 34px;
+    }
+    .the-best3{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+    .scalonifoto{
+        width: 80%;
+        height: 90%;
+        margin: auto;
+    }
+    .main3 div .scalonipremio {
+        font-family: "letra quick";
+        font-size: 22px;
+        color: white;
+        font-weight: bold;
+        text-align: center;
+        margin: auto;
+        margin-bottom: 34px;
+        margin-top: 34px;
+    }
+    .the-best4{
+        display: flex;
+        flex-direction: column-reverse;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+    .inchada{
+        width: 80%;
+        height: 90%;
+        margin: auto;
+    }
+    .main3 div .inchadapremio {
+        font-family: "letra quick";
+        font-size: 22px;
+        color: white;
+        font-weight: bold;
+        text-align: center;
+        margin: auto;
+        margin-bottom: 34px;
+        margin-top: 34px;
+    }
+    .formulario{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+    .h13{
+        margin: auto;
+    }
+    .mensaje{
+        display: flex;
+        width: 90%;
+        margin: auto;
+        margin-top: 15%;
+    }
+    .nombrecompleto{
+        display: flex;
+        width: 90%;
+        margin: auto;
+    }
+    .enviamensaje{
+        margin: auto;
+    }
+    .nombretext{
+        display: flex;
+        text-align: center;
+        margin: auto;
+        margin-top: 10%;
+    }
+    .emailtext{
+        margin-top: 5%;
+    }
+    .mail{
+        display: flex;
+        width: 90%;
+        margin: auto;
+    }
+    .enviarmensaje{
+        display: flex;
+        width: 90%;
+        margin: auto;
     }
 }
