@@ -1,1 +1,1024 @@
-/*# sourceMappingURL=main.css.map */
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600;700&display=swap");
+.main {
+  min-height: 100vw;
+  background-image: linear-gradient(rgba(5, 7, 12, 0.5), rgba(5, 7, 12, 0.5)), url(../img/932701.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+h1 {
+  margin-top: 50px;
+  font-family: "letra quick";
+  font-size: 50px;
+  text-align: center;
+  color: whitesmoke;
+  font-weight: bolder;
+  height: 50px;
+}
+
+h2 {
+  font-family: "letra quick";
+  font-size: 50px;
+  text-align: center;
+  color: white;
+  font-weight: bolder;
+  height: 50px;
+}
+
+.papu {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.main section .h12 {
+  font-weight: bolder;
+}
+
+.main section img {
+  margin-bottom: 0%;
+}
+
+.main2 {
+  min-height: 100vh;
+  background-image: linear-gradient(rgba(5, 7, 12, 0.5), rgba(5, 7, 12, 0.5)), url(../img/932701.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.main1 {
+  min-height: 100vh;
+  background-image: linear-gradient(rgba(5, 7, 12, 0.5), rgba(5, 7, 12, 0.5)), url(../img/932701.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.main3 {
+  min-height: 100vh;
+  background-image: linear-gradient(rgba(5, 7, 12, 0.5), rgba(5, 7, 12, 0.5)), url(../img/932701.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.main4 {
+  min-height: 100vh;
+  background-image: linear-gradient(rgba(5, 7, 12, 0.5), rgba(5, 7, 12, 0.5)), url(../img/932701.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.main1 {
+  min-height: 100vh;
+  background-image: linear-gradient(rgba(5, 7, 12, 0.5), rgba(5, 7, 12, 0.5)), url(../img/932701.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.main1 div .arabia {
+  font-family: "letra quick";
+  box-sizing: border-box;
+  font-size: 25px;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 200px;
+  margin-right: 100px;
+}
+
+.contenedor {
+  display: flex;
+}
+
+.arabias {
+  box-shadow: 7px 6px 0px 2px black;
+  margin: 10px 180px 110px 90px;
+  width: 1708px;
+  height: 400px;
+  flex-wrap: wrap;
+}
+
+.contenedor2 {
+  display: flex;
+}
+
+.polonias {
+  box-shadow: -4px 3px 2px 2px black;
+  margin-top: 10px;
+  margin-left: 250px;
+  margin-right: 120px;
+  width: 2900px;
+  height: 400px;
+  margin-bottom: 110px;
+  flex-wrap: wrap;
+}
+
+.main1 div .polonia {
+  font-family: "letra quick";
+  font-size: 25px;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 125px;
+  margin-left: 127px;
+}
+
+.contenedor3 {
+  display: flex;
+}
+
+.Mexicas {
+  box-shadow: 7px 6px 0px 2px black;
+  margin-top: 10px;
+  margin-left: 91px;
+  margin-right: 96px;
+  width: 1563px;
+  height: 400px;
+  margin-bottom: 80px;
+  flex-wrap: wrap;
+}
+
+.main1 div .Mexico {
+  font-family: "letra quick";
+  font-size: 25px;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 200px;
+  margin-left: 0px;
+  margin-right: 44px;
+}
+
+.contenedor4 {
+  display: flex;
+}
+
+.australias {
+  box-shadow: -4px 3px 2px 2px black;
+  margin-top: 10px;
+  margin-left: 250px;
+  margin-right: 120px;
+  width: 2900px;
+  height: 400px;
+  margin-bottom: 110px;
+  flex-wrap: wrap;
+}
+
+.main1 div .australia {
+  font-family: "letra quick";
+  font-size: 25px;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 159px;
+  margin-left: 129px;
+}
+
+.contenedor5 {
+  display: flex;
+}
+
+.holandas {
+  box-shadow: 7px 6px 0px 2px black;
+  margin-top: 10px;
+  margin-left: 79px;
+  margin-right: 90px;
+  width: 3081px;
+  height: 400px;
+  margin-bottom: 110px;
+  flex-wrap: wrap;
+}
+
+.main1 div .holanda {
+  font-family: "letra quick";
+  font-size: 25px;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 157px;
+  margin-left: 150px;
+  margin-right: 169px;
+}
+
+.contenedor6 {
+  display: flex;
+}
+
+.croacias {
+  box-shadow: -4px 3px 2px 2px black;
+  margin-top: 10px;
+  margin-left: 250px;
+  margin-right: 120px;
+  width: 2000px;
+  height: 400px;
+  margin-bottom: 110px;
+  flex-wrap: wrap;
+}
+
+.main1 div .croacia {
+  font-family: "letra quick";
+  font-size: 25px;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 200px;
+  margin-left: 200px;
+}
+
+.contenedor7 {
+  display: flex;
+}
+
+.francias {
+  box-shadow: 7px 6px 0px 2px black;
+  margin-top: 10px;
+  margin-left: 150px;
+  margin-right: 150px;
+  width: 1900px;
+  height: 400px;
+  margin-bottom: 80px;
+  flex-wrap: wrap;
+}
+
+.main1 div .francia {
+  font-family: "letra quick";
+  font-size: 25px;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 200px;
+  margin-left: 0px;
+  margin-right: 47px;
+}
+
+.main3 section .premios {
+  font-family: "letra quick";
+  font-size: 25px;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 200px;
+  margin-left: 200px;
+}
+
+.dibupremio {
+  height: 400px;
+  margin-bottom: 110px;
+  flex-wrap: wrap;
+}
+
+.premiodibu {
+  font-family: "letra quick";
+  font-size: 22px;
+  color: white;
+  font-weight: bold;
+  text-align: left;
+  margin-top: -80px;
+  margin-left: 270px;
+}
+
+.enzopremio {
+  border: 10px solid white;
+  width: 600px;
+  height: 400px;
+  margin-bottom: 110px;
+  flex-wrap: wrap;
+  margin-top: 10px;
+}
+
+.fotodibu {
+  border: 10px solid white;
+  margin-top: 10px;
+  margin-left: 280px;
+  margin-right: 100px;
+  width: 600px;
+  height: 400px;
+  margin-bottom: 110px;
+  flex-wrap: wrap;
+}
+
+.premioenzo {
+  font-family: "letra quick";
+  font-size: 22px;
+  color: white;
+  font-weight: bold;
+  text-align: left;
+  margin-top: -77px;
+  margin-left: -30px;
+}
+
+.premiomessi {
+  border: 10px solid white;
+  margin-top: 10px;
+  margin-left: 650px;
+  margin-right: 100px;
+  width: 600px;
+  height: 400px;
+  margin-bottom: 110px;
+  flex-wrap: wrap;
+}
+
+.messipremio {
+  font-family: "letra quick";
+  font-size: 22px;
+  color: white;
+  font-weight: bold;
+  text-align: left;
+  margin-top: -80px;
+  margin-left: 660px;
+}
+
+.papu {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.main section .h12 {
+  font-weight: bolder;
+}
+
+.main section img {
+  margin-bottom: 0%;
+}
+
+.foto1 {
+  margin-top: 10px;
+  margin-left: 350px;
+  margin-right: 100px;
+  width: 600px;
+  height: 400px;
+  margin-bottom: 110px;
+  flex-wrap: wrap;
+}
+
+.foto2 {
+  width: 600px;
+  height: 400px;
+  margin-bottom: 110px;
+  flex-wrap: wrap;
+}
+
+.foto3 {
+  margin-top: -379px;
+  margin-left: 350px;
+  margin-right: 100px;
+  width: 600px;
+  height: 400px;
+  margin-bottom: 110px;
+  flex-wrap: wrap;
+}
+
+.the-best {
+  display: flex;
+}
+
+.messifoto {
+  margin-top: 10px;
+  margin-left: 150px;
+  margin-right: 180px;
+  width: 800px;
+  height: 400px;
+  text-align: center;
+  margin-bottom: 110px;
+  flex-wrap: wrap;
+  border-radius: 10px;
+}
+
+.main3 div .messipremio {
+  font-family: "letra quick";
+  font-size: 30px;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 200px;
+  margin-left: -20px;
+}
+
+.the-best2 {
+  display: flex;
+}
+
+.dibufoto {
+  margin-top: 10px;
+  margin-left: 250px;
+  margin-right: 120px;
+  width: 1000px;
+  height: 400px;
+  margin-bottom: 110px;
+  flex-wrap: wrap;
+  border-radius: 10px;
+}
+
+.main3 div .dibupremio {
+  font-family: "letra quick";
+  font-size: 25px;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 200px;
+  margin-left: 200px;
+}
+
+.contenedormessi {
+  display: flex;
+  flex-direction: column;
+}
+
+.contenedorenzo {
+  display: flex;
+  flex-direction: column;
+}
+
+.dibu {
+  display: flex;
+  flex-direction: column;
+}
+
+.contenedordibuyenzo {
+  display: flex;
+}
+
+.the-best3 {
+  display: flex;
+}
+
+.scalonifoto {
+  margin-top: -80px;
+  margin-left: 150px;
+  margin-right: 150px;
+  width: 800px;
+  height: 400px;
+  margin-bottom: 80px;
+  flex-wrap: wrap;
+  border-radius: 10px;
+}
+
+.main3 div .scalonipremio {
+  font-family: "letra quick";
+  font-size: 25px;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 80px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.the-best4 {
+  display: flex;
+}
+
+.inchada {
+  margin-top: 10px;
+  margin-left: 250px;
+  margin-right: 120px;
+  width: 1000px;
+  height: 400px;
+  margin-bottom: 110px;
+  flex-wrap: wrap;
+  border-radius: 10px;
+}
+
+.main3 div .inchadapremio {
+  font-family: "letra quick";
+  font-size: 25px;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 200px;
+  margin-left: 200px;
+}
+
+.nombrecompleto {
+  border: 5px solid black;
+  margin-left: 100px;
+  margin: 10px;
+  height: 30px;
+  width: 600px;
+}
+
+.mail {
+  border: 5px solid black;
+  margin: 10px;
+  height: 30px;
+  width: 600px;
+}
+
+.nombretext {
+  font-family: "letra quick";
+  font-size: 25px;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 0px;
+  margin-left: 150px;
+}
+
+.emailtext {
+  font-family: "letra quick";
+  font-size: 25px;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 0px;
+}
+
+.mensaje {
+  border: 5px solid black;
+  margin-left: 540px;
+  height: 400px;
+  width: 800px;
+}
+
+.enviarmensaje {
+  border: 5px solid black;
+  margin-left: 640px;
+  height: 30px;
+  width: 600px;
+}
+
+.footer {
+  font-family: "letra quick";
+  font-weight: bold;
+  background-color: rgb(1, 109, 192);
+  height: 30%;
+}
+
+.textof {
+  color: white;
+  margin-left: 800px;
+  text-align: center;
+  margin-left: 13px;
+  margin-top: 2%;
+}
+
+.contactanos {
+  color: white;
+  margin-left: 870px;
+  text-align: center;
+  margin-left: 13px;
+}
+
+.navbar-collapse {
+  font-family: "letra quick";
+  font-size: 19px;
+  margin-right: 100px;
+  flex-basis: 100%;
+  flex-grow: 0;
+  align-items: center;
+}
+
+.nav-link:hover {
+  border-bottom: 2px solid yellow;
+}
+
+@font-face {
+  font-family: "letra quick";
+  src: url("../recursos/fonts/Quicksand_Book.otf");
+}
+/*Reseteo*/
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Quicksand", sans-serif;
+}
+
+.papu {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.main section .h12 {
+  font-weight: bolder;
+}
+
+.main section img {
+  margin-bottom: 0%;
+}
+
+.foto1 {
+  margin-top: 10px;
+  margin-left: 350px;
+  margin-right: 100px;
+  width: 600px;
+  height: 400px;
+  margin-bottom: 110px;
+  flex-wrap: wrap;
+}
+
+.foto2 {
+  width: 600px;
+  height: 400px;
+  margin-bottom: 110px;
+  flex-wrap: wrap;
+}
+
+.foto3 {
+  margin-top: -379px;
+  margin-left: 350px;
+  margin-right: 100px;
+  width: 600px;
+  height: 400px;
+  margin-bottom: 110px;
+  flex-wrap: wrap;
+}
+
+@media (max-width: 1500px) {
+  .footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  .mb-3 {
+    box-shadow: 1px 1px 10px 5px rgb(0, 0, 0);
+    display: flex;
+    width: 80%;
+    margin-bottom: 4rem !important;
+    margin: auto;
+    margin-top: 58px;
+  }
+  .videomundi {
+    width: 60%;
+    height: 20%;
+  }
+  .h12 {
+    margin-bottom: 0;
+  }
+  .conteiner {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  .Scalonif {
+    width: 80%;
+    height: 90%;
+    margin-right: 140px;
+  }
+  .scalonfra {
+    width: auto;
+    margin: 10px;
+    margin: auto;
+    margin: 10px;
+  }
+  .conteiner2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+}
+@media (max-width: 600px) {
+  .videomundi {
+    display: none;
+  }
+  .Scalonif {
+    width: 80%;
+    margin-right: 140px;
+  }
+}
+@media (max-width: 900) {
+  .mb-3 {
+    box-shadow: 1px 1px 10px 5px rgb(0, 0, 0);
+    display: flex;
+    width: auto;
+    margin-bottom: 4rem !important;
+    margin: auto;
+    margin-top: 58px;
+  }
+  .contenedordibuyenzo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+}
+@media (max-width: 1300px) {
+  .contenedor {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  .arabias {
+    width: 80%;
+    height: 90%;
+    margin-right: 105px;
+  }
+  .main1 div .arabia {
+    width: auto;
+    font-size: inherit;
+    margin-top: -97px;
+    margin-right: 0px;
+  }
+  .contenedor2 {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  .polonias {
+    width: 80%;
+    height: 90%;
+    margin-right: 226px;
+  }
+  .main1 div .polonia {
+    width: auto;
+    font-size: inherit;
+    margin-top: -97px;
+    margin-left: 0px;
+  }
+  .contenedor3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  .Mexicas {
+    width: 80%;
+    height: 90%;
+    margin-right: 72px;
+  }
+  .main1 div .Mexico {
+    width: auto;
+    font-size: inherit;
+    margin-top: -56px;
+    margin-right: 0px;
+  }
+  .contenedor4 {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  .australias {
+    width: 80%;
+    height: 90%;
+    margin-right: 237px;
+  }
+  .main1 div .australia {
+    width: auto;
+    font-size: inherit;
+    margin-top: -97px;
+    margin-left: 0px;
+  }
+  .contenedor5 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  .holandas {
+    width: 80%;
+    height: 90%;
+    margin-right: 82px;
+  }
+  .main1 div .holanda {
+    width: auto;
+    font-size: inherit;
+    margin-top: -97px;
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+  .contenedor6 {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  .croacias {
+    width: 80%;
+    height: 90%;
+    margin-right: 242px;
+  }
+  .main1 div .croacia {
+    width: auto;
+    font-size: inherit;
+    margin-top: -97px;
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+  .contenedor7 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  .francias {
+    width: 80%;
+    height: 90%;
+    margin-right: 154px;
+  }
+  .main1 div .francia {
+    width: auto;
+    font-size: inherit;
+    margin-top: -62px;
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+  .contenedordibuyenzo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  .fotodibu {
+    width: 80%;
+    height: 90%;
+    margin: auto;
+    margin-bottom: 114px;
+  }
+  .premiodibu {
+    font-family: "letra quick";
+    font-size: 22px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    margin: auto;
+    margin-top: -90px;
+  }
+  .enzopremio {
+    width: 80%;
+    height: 90%;
+    margin: auto;
+    margin-top: 29px;
+  }
+  .premioenzo {
+    font-family: "letra quick";
+    font-size: 22px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    margin: auto;
+    margin-top: 20px;
+  }
+  .contenedormessi {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-wrap: nowrap;
+  }
+  .premiomessi {
+    width: 80%;
+    height: 90%;
+    margin: auto;
+  }
+  .the-best {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  .messifoto {
+    width: 80%;
+    height: 90%;
+    margin: auto;
+  }
+  .main3 div .messipremio {
+    font-family: "letra quick";
+    font-size: 30px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    margin: auto;
+    margin-top: 24px;
+    margin-left: 2px;
+  }
+  .the-best2 {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  .dibufoto {
+    width: 80%;
+    height: 90%;
+    margin: auto;
+  }
+  .main3 div .dibupremio {
+    font-family: "letra quick";
+    font-size: 22px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    margin: auto;
+    margin-bottom: -322px;
+    margin-top: 34px;
+  }
+  .the-best3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  .scalonifoto {
+    width: 80%;
+    height: 90%;
+    margin: auto;
+  }
+  .main3 div .scalonipremio {
+    font-family: "letra quick";
+    font-size: 22px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 34px;
+    margin-top: 34px;
+  }
+  .the-best4 {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  .inchada {
+    width: 80%;
+    height: 90%;
+    margin: auto;
+  }
+  .main3 div .inchadapremio {
+    font-family: "letra quick";
+    font-size: 22px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 34px;
+    margin-top: 34px;
+  }
+  .formulario {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  .h13 {
+    margin: auto;
+  }
+  .mensaje {
+    display: flex;
+    width: 90%;
+    margin: auto;
+    margin-top: 15%;
+  }
+  .nombrecompleto {
+    display: flex;
+    width: 90%;
+    margin: auto;
+  }
+  .enviamensaje {
+    margin: auto;
+  }
+  .nombretext {
+    display: flex;
+    text-align: center;
+    margin: auto;
+    margin-top: 10%;
+  }
+  .emailtext {
+    margin-top: 5%;
+  }
+  .mail {
+    display: flex;
+    width: 90%;
+    margin: auto;
+  }
+  .enviarmensaje {
+    display: flex;
+    width: 90%;
+    margin: auto;
+  }
+}/*# sourceMappingURL=main.css.map */

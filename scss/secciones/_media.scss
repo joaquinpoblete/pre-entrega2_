@@ -1,0 +1,387 @@
+@media (max-width: 1500px){
+    .footer{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+    .mb-3 {
+        box-shadow: 1px 1px 10px 5px rgb(0, 0, 0);
+        display: flex;
+        width: 80%;
+        margin-bottom: 4rem !important;
+        margin: auto;
+        margin-top: 58px;
+    }
+    .videomundi{
+        width: 60%;
+        height: 20%;
+    }
+    .h12{
+        margin-bottom: 0;
+    }
+    .conteiner{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+    .Scalonif{
+        width: 80%;
+        height: 90%;
+        margin-right: 140px;
+    }
+    .scalonfra{
+        width: auto;
+        margin: 10px;
+        margin: auto;
+        margin: 10px;
+    }
+    .conteiner2{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+}
+@media(max-width: 600px){
+    .videomundi{
+        display: none;
+    }
+    .Scalonif{
+        width: 80%;
+        margin-right: 140px;
+    }
+}
+@media(max-width: 900){
+    .mb-3 {
+        box-shadow: 1px 1px 10px 5px rgb(0, 0, 0);
+        display: flex;
+        width: auto;
+        margin-bottom: 4rem !important;
+        margin: auto;
+        margin-top: 58px;
+    }
+    .contenedordibuyenzo{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+}
+@media (max-width: 1300px){
+    .contenedor{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+    .arabias{
+        width: 80%;
+        height: 90%;
+        margin-right: 105px;
+    }
+    .main1 div .arabia{ 
+        width: auto;
+        font-size: inherit;
+        margin-top: -97px;
+        margin-right: 0px;
+    }
+    .contenedor2{
+        display: flex;
+        flex-direction: column-reverse;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+    .polonias{
+        width: 80%;
+        height: 90%;
+        margin-right: 226px;
+    }
+    .main1 div .polonia{ 
+        width: auto;
+        font-size: inherit;
+        margin-top: -97px;
+        margin-left: 0px;
+    }
+    .contenedor3{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+    .Mexicas{
+        width: 80%;
+        height: 90%;
+        margin-right: 72px;
+    }
+    .main1 div .Mexico{ 
+        width: auto;
+        font-size: inherit;
+        margin-top: -56px;
+        margin-right: 0px;
+    }
+    .contenedor4{
+        display: flex;
+        flex-direction: column-reverse;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+    .australias{
+        width: 80%;
+        height: 90%;
+        margin-right: 237px;
+    }
+    .main1 div .australia{ 
+        width: auto;
+        font-size: inherit;
+        margin-top: -97px;
+        margin-left: 0px;
+    }
+    .contenedor5{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+    .holandas{
+        width: 80%;
+        height: 90%;
+        margin-right: 82px;
+    }
+    .main1 div .holanda{ 
+        width: auto;
+        font-size: inherit;
+        margin-top: -97px;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+    .contenedor6{
+        display: flex;
+        flex-direction: column-reverse;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+    .croacias{
+        width: 80%;
+        height: 90%;
+        margin-right: 242px;
+    }
+    .main1 div .croacia{ 
+        width: auto;
+        font-size: inherit;
+        margin-top: -97px;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+    .contenedor7{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+    .francias{
+        width: 80%;
+        height: 90%;
+        margin-right: 154px;
+    }
+    .main1 div .francia{ 
+        width: auto;
+        font-size: inherit;
+        margin-top: -62px;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+    .contenedordibuyenzo{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+    .fotodibu{
+            width: 80%;
+            height: 90%;
+            margin: auto;
+            margin-bottom: 114px;
+    }
+    .premiodibu{
+        font-family: "letra quick";
+        font-size: 22px;
+        color: white;
+        font-weight: bold;
+        text-align: center;
+        margin: auto;
+        margin-top: -90px;
+    }
+    .enzopremio{
+            width: 80%;
+            height: 90%;
+            margin: auto;
+            margin-top: 29px;
+    }
+    .premioenzo{
+        font-family: "letra quick";
+        font-size: 22px;
+        color: white;
+        font-weight: bold;
+        text-align: center;
+        margin: auto;
+        margin-top: 20px;
+    }
+    .contenedormessi{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        flex-wrap: nowrap;
+    }
+    .premiomessi{
+        width: 80%;
+        height: 90%;
+        margin: auto;
+    }
+    .the-best{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+    .messifoto{
+        width: 80%;
+        height: 90%;
+        margin: auto;
+    }
+    .main3 div .messipremio {
+    font-family: "letra quick";
+    font-size: 30px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    margin: auto;
+    margin-top: 24px;
+    margin-left: 2px;
+    }
+    .the-best2{
+        display: flex;
+        flex-direction: column-reverse;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+    .dibufoto{
+        width: 80%;
+        height: 90%;
+        margin: auto;
+    }
+    .main3 div .dibupremio {
+        font-family: "letra quick";
+        font-size: 22px;
+        color: white;
+        font-weight: bold;
+        text-align: center;
+        margin: auto;
+        margin-bottom: -322px;
+        margin-top: 34px;
+    }
+    .the-best3{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+    .scalonifoto{
+        width: 80%;
+        height: 90%;
+        margin: auto;
+    }
+    .main3 div .scalonipremio {
+        font-family: "letra quick";
+        font-size: 22px;
+        color: white;
+        font-weight: bold;
+        text-align: center;
+        margin: auto;
+        margin-bottom: 34px;
+        margin-top: 34px;
+    }
+    .the-best4{
+        display: flex;
+        flex-direction: column-reverse;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+    .inchada{
+        width: 80%;
+        height: 90%;
+        margin: auto;
+    }
+    .main3 div .inchadapremio {
+        font-family: "letra quick";
+        font-size: 22px;
+        color: white;
+        font-weight: bold;
+        text-align: center;
+        margin: auto;
+        margin-bottom: 34px;
+        margin-top: 34px;
+    }
+    .formulario{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+    .h13{
+        margin: auto;
+    }
+    .mensaje{
+        display: flex;
+        width: 90%;
+        margin: auto;
+        margin-top: 15%;
+    }
+    .nombrecompleto{
+        display: flex;
+        width: 90%;
+        margin: auto;
+    }
+    .enviamensaje{
+        margin: auto;
+    }
+    .nombretext{
+        display: flex;
+        text-align: center;
+        margin: auto;
+        margin-top: 10%;
+    }
+    .emailtext{
+        margin-top: 5%;
+    }
+    .mail{
+        display: flex;
+        width: 90%;
+        margin: auto;
+    }
+    .enviarmensaje{
+        display: flex;
+        width: 90%;
+        margin: auto;
+    }
+}

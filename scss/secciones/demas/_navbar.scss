@@ -1,0 +1,11 @@
+.navbar-collapse {
+    font-family:"letra quick";
+    font-size: 19px;
+    margin-right: 100px;
+    flex-basis: 100%;
+    flex-grow: 0;
+    align-items: center;
+}
+.nav-link:hover{
+    border-bottom: 2px solid yellow;
+}

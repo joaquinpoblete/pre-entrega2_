@@ -1,0 +1,104 @@
+.main3 section .premios{
+    font-family:"letra quick";
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 200px;
+    margin-left: 200px;
+}
+.dibupremio{
+    height: 400px;
+    margin-bottom: 110px;
+    flex-wrap: wrap;
+}
+.premiodibu{
+    font-family:"letra quick";
+    font-size: 22px;
+    color: white;
+    font-weight: bold;
+    text-align: left;
+    margin-top: -80px;
+    margin-left: 270px;
+}
+.enzopremio{
+    border: 10px solid white;
+    width: 600px;
+    height: 400px;
+    margin-bottom: 110px;
+    flex-wrap: wrap;
+    margin-top: 10px;
+}
+.fotodibu{
+    border: 10px solid white;
+    margin-top: 10px;
+    margin-left: 280px;
+    margin-right: 100px;
+    width: 600px;
+    height: 400px;
+    margin-bottom: 110px;
+    flex-wrap: wrap;
+}
+.premioenzo{
+    font-family:"letra quick";
+    font-size: 22px;
+    color: white;
+    font-weight: bold;
+    text-align: left;
+    margin-top: -77px;
+    margin-left: -30px;
+}
+.premiomessi{
+    border: 10px solid white;
+    margin-top: 10px;
+    margin-left: 650px;
+    margin-right: 100px;
+    width: 600px;
+    height: 400px;
+    margin-bottom: 110px;
+    flex-wrap: wrap;
+}
+.messipremio{
+    font-family:"letra quick";
+    font-size: 22px;
+    color: white;
+    font-weight: bold;
+    text-align: left;
+    margin-top: -80px;
+    margin-left: 660px;
+}
+.papu{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.main section .h12{
+    font-weight: bolder;
+}
+.main section img{
+    margin-bottom: 0%;
+}
+.foto1{
+    margin-top: 10px;
+    margin-left: 350px;
+    margin-right: 100px;
+    width: 600px;
+    height: 400px;
+    margin-bottom: 110px;
+    flex-wrap: wrap;
+}
+.foto2{ 
+    width: 600px;
+    height: 400px;
+    margin-bottom: 110px;
+    flex-wrap: wrap;
+}
+.foto3{
+    margin-top: -379px;
+    margin-left: 350px;
+    margin-right: 100px;
+    width: 600px;
+    height: 400px;
+    margin-bottom: 110px;
+    flex-wrap: wrap;
+}
