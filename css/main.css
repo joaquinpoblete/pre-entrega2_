@@ -77,6 +77,90 @@ h2 {
   background-size: cover;
 }
 
+.w-100 {
+  margin: auto;
+  height: 80%;
+  width: 80% !important;
+  align-content: center;
+}
+
+.conteiner {
+  display: flex;
+}
+
+.Scalonif {
+  box-shadow: 3px 4px 14px 2px black;
+  margin: 0px 0px 0px 100px;
+  margin-left: 16vh;
+  height: 418px;
+  width: 2200px;
+}
+
+.scalonfra {
+  font-family: "letra quick";
+  color: white;
+  font-weight: bolder;
+  margin: 0px 0px 0px 100px;
+  text-align: center;
+  margin-right: 16vh;
+  height: 165px;
+  width: 2200px;
+  min-width: 250px;
+  margin-top: 150px;
+}
+
+.mb-3 {
+  box-shadow: 1px 1px 10px 5px rgb(0, 0, 0);
+  display: flex;
+  width: 50.6vh;
+  margin-bottom: 4rem !important;
+  margin: auto;
+  margin-top: 58px;
+}
+
+.card-title {
+  font-family: "letra quick";
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: var(--bs-card-title-spacer-y);
+  color: var(--bs-card-title-color);
+}
+
+.card-text {
+  font-family: "letra quick";
+  color: black;
+  font-weight: bolder;
+  text-align: center;
+}
+
+.card-img, .card-img-bottom, .card-img-top {
+  display: flex;
+  width: 100%;
+}
+
+.videomundi {
+  border-radius: 10px;
+  display: flex;
+  margin-top: -2px;
+  margin-left: 87.5px;
+  margin-right: 87.5px;
+  margin: auto;
+}
+
+.card-mb-3 {
+  display: flex;
+}
+
+.conteiner2 {
+  display: flex;
+}
+
+.carousel-inner img {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 4/3;
+}
+
 .main1 {
   min-height: 100vh;
   background-image: linear-gradient(rgba(5, 7, 12, 0.5), rgba(5, 7, 12, 0.5)), url(../img/932701.jpg);
