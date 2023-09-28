@@ -9,6 +9,16 @@
   display: flex;
 }
 
+@keyframes fade-down {
+  0% {
+    opacity: 0;
+    transform: translateY(-30px) scale(0.9);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0) scale(1S);
+  }
+}
 .Scalonif {
   box-shadow: 3px 4px 14px 2px black;
   margin: 0px 0px 0px 100px;

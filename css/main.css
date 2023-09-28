@@ -88,6 +88,16 @@ h2 {
   display: flex;
 }
 
+@keyframes fade-down {
+  0% {
+    opacity: 0;
+    transform: translateY(-30px) scale(0.9);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0) scale(1S);
+  }
+}
 .Scalonif {
   box-shadow: 3px 4px 14px 2px black;
   margin: 0px 0px 0px 100px;
@@ -644,7 +654,6 @@ h2 {
   margin-left: 800px;
   text-align: center;
   margin-left: 13px;
-  margin-top: 2%;
 }
 
 .contactanos {
@@ -652,6 +661,7 @@ h2 {
   margin-left: 870px;
   text-align: center;
   margin-left: 13px;
+  margin-bottom: 0;
 }
 
 .navbar-collapse {
